@@ -1,0 +1,9 @@
+@font-face {
+  font-family: FiraCode;
+  font-weight: normal;
+  src: url("./fonts/FiraCode-Regular.woff");
+}
+
+* {
+  font-family: 'FiraCode';
+}
